@@ -1,0 +1,16 @@
+body{
+    background-color: lightskyblue;
+}
+
+h3.header1{
+    text-align: center;
+}
+
+section{
+    background-color: white;
+}
+hr.hr2{
+    color: grey;
+    width: 50%;
+
+}
