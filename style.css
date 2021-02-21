@@ -8,9 +8,56 @@ h3.header1{
 
 section{
     background-color: white;
+    text-align: center;
 }
 hr.hr2{
     color: grey;
     width: 50%;
 
 }
+
+img.primera{
+    height: 110px;
+    width: 150px;
+    opacity: 1.0;
+    
+}
+img.primera:hover{
+    opacity: 0.5;
+}
+
+hr.hr1{
+    background-color: blue;
+    height: 15px; 
+}
+
+h3.header2{
+    width: 80vw;
+}
+
+span.bold:hover{
+    font-weight: bold;
+    background-color: cyan;
+}
+section.dos{
+    background-color: white; 
+    text-align: left;
+}
+div.p1{
+    color: blue;
+    font-weight: bold;
+    background-image: url("img/valencia_antigua.jpg");
+    width: 50vw;
+    height: 50vh;
+    border: black 2px solid;
+
+}
+img.segunda{
+    width: 350px;
+    height: 250px;
+}
+div.img1{
+    text-align: center;
+}
+
+
